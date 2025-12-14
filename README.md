@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abhilive1
-- 👀 I’m interested in exploring my self and want to learn as much as possible.
-- 🌱 I’m currently learning Web dev and DSA.
-- 💞️ I’m looking to collaborate on project related to web dev.
+- 👋 Hi, I’m Abhishek Gupta  
+- 👀 I’m interested in exploring my self and mark a positive point wherever I go
+- 🌱 I’m expert in Data Analytics, Business Analytics, Data Science and Data Engineer.
+- 💞️ I’m looking to collaborate on project related to Agentic AI Model
 - 📫 How to reach me , You can reach me through Instagram(abhilive1) and Linkedin(Abhishek Gupta).
 
 <!---
